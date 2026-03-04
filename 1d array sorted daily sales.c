@@ -14,9 +14,10 @@ int main(){
         }
     }
     if(increasing)
-        printf("Increasing Order");
+        printf("Yes");
     else
-        printf("Not Increasing Order");
+        printf("No");
 
     return 0;
+
 }
